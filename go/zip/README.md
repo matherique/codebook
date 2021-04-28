@@ -1,1 +1,9 @@
-## Uncompressing zip and all the files and their content
+## Zip 
+
+Open the .zip and parse all the .csv files inside it 
+
+
+## How to run 
+
+```go run main.go``` 
+
